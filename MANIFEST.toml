@@ -1,0 +1,17 @@
+---
+uuid = "d440505f-309e-4c05-bbf4-77305d062e06"
+name = "Feat. Artists Removed"
+description = "Removes (feat. X) artists from track titles. Substitution is case insensitive."
+api = ["3.0"]
+version = "0.4.1"
+authors = ["Lukas Lalinsky", "Bryan Toth", "Aaron (dadtronics)"]
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+categories = ["metadata"]
+long_description = """
+Removes "(feat. X)" (and similar) credit suffixes from track titles.
+
+Original plugin by Lukas Lalinsky and Bryan Toth (v0.4, 2.x API).
+This repository is a port to the Picard 3.0 plugin format
+(MANIFEST.toml + __init__.py).
+"""
