@@ -1,4 +1,3 @@
----
 uuid = "d440505f-309e-4c05-bbf4-77305d062e06"
 name = "Feat. Artists Removed"
 description = "Removes (feat. X) artists from track titles. Substitution is case insensitive."
